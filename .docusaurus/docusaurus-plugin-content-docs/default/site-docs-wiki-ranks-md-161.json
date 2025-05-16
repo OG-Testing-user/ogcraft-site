@@ -1,0 +1,27 @@
+{
+  "id": "Wiki/Ranks",
+  "title": "Rank Information",
+  "description": "This page is under construction as we revise permissions",
+  "source": "@site/docs/Wiki/Ranks.md",
+  "sourceDirName": "Wiki",
+  "slug": "/Wiki/Ranks",
+  "permalink": "/docs/Wiki/Ranks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Wiki/Ranks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Rank Information",
+    "sidebar_label": "Ranks"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Player Warp Rules",
+    "permalink": "/docs/Wiki/Player Warp Rules"
+  },
+  "next": {
+    "title": "Terms of Service / Privacy Policy",
+    "permalink": "/docs/Legal/TOS-PrivacyPolicy"
+  }
+}

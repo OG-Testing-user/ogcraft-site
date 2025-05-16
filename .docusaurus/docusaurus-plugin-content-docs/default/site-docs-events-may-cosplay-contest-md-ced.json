@@ -1,0 +1,28 @@
+{
+  "id": "Events/May Cosplay Contest",
+  "title": "🚀 May the 4th Cosplay Contest",
+  "description": "When: May 4 (in-game)",
+  "source": "@site/docs/Events/May Cosplay Contest.md",
+  "sourceDirName": "Events",
+  "slug": "/Events/May Cosplay Contest",
+  "permalink": "/docs/Events/May Cosplay Contest",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Events/May Cosplay Contest.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "🚀 May the 4th Cosplay Contest",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Map 4 Reset",
+    "permalink": "/docs/Announcements/Map 4 Reset"
+  },
+  "next": {
+    "title": "🛠️ Base Building Bonanza",
+    "permalink": "/docs/Events/Base Building Bonanza"
+  }
+}

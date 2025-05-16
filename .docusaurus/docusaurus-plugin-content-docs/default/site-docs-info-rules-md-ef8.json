@@ -1,0 +1,28 @@
+{
+  "id": "Info/Rules",
+  "title": "📜 Rules",
+  "description": "Disclaimer: This list is not exhaustive and cannot cover every possible scenario or edge case. If you’re ever unsure whether something is allowed, please ask a staff member for clarification before proceeding.",
+  "source": "@site/docs/Info/Rules.md",
+  "sourceDirName": "Info",
+  "slug": "/Info/Rules",
+  "permalink": "/docs/Info/Rules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Info/Rules.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "📜 Rules",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/Welcome"
+  },
+  "next": {
+    "title": "❓ FAQs",
+    "permalink": "/docs/Info/FAQ"
+  }
+}

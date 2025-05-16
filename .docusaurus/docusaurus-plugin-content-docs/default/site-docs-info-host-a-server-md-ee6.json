@@ -1,0 +1,28 @@
+{
+  "id": "Info/Host A Server",
+  "title": "🖥 Host A Server",
+  "description": "Looking to spin up your own Minecraft server? We’ve partnered with EnviroMC for years to provide reliable, high-performance hosting.",
+  "source": "@site/docs/Info/Host A Server.md",
+  "sourceDirName": "Info",
+  "slug": "/Info/Host A Server",
+  "permalink": "/docs/Info/Host A Server",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Info/Host A Server.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "🖥 Host A Server",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👥 Staff Members",
+    "permalink": "/docs/Info/Staff Members"
+  },
+  "next": {
+    "title": "Map 7 Reset",
+    "permalink": "/docs/Announcements/Map 7 Reset"
+  }
+}

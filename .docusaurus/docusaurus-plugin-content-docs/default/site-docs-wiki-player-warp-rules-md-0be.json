@@ -1,0 +1,24 @@
+{
+  "id": "Wiki/Player Warp Rules",
+  "title": "Player Warp Rules",
+  "description": "Under Construction: We’re updating PWarp rules—below are the current guidelines.",
+  "source": "@site/docs/Wiki/Player Warp Rules.md",
+  "sourceDirName": "Wiki",
+  "slug": "/Wiki/Player Warp Rules",
+  "permalink": "/docs/Wiki/Player Warp Rules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Wiki/Player Warp Rules.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom Crafting Recipes",
+    "permalink": "/docs/Wiki/Custom Crafting Recipes"
+  },
+  "next": {
+    "title": "Ranks",
+    "permalink": "/docs/Wiki/Ranks"
+  }
+}

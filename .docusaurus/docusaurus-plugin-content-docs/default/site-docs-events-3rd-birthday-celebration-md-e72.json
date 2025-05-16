@@ -1,0 +1,28 @@
+{
+  "id": "Events/3rd Birthday Celebration",
+  "title": "🎂 3rd Birthday Celebration",
+  "description": "In one month’s time—August 15, 2023—we will be celebrating OGCraft’s 3rd Birthday! This year, we’re bringing back fan-favorite minigames, unveiling a brand-new custom built challenge, and giving away over $100 in store prizes!",
+  "source": "@site/docs/Events/3rd Birthday Celebration.md",
+  "sourceDirName": "Events",
+  "slug": "/Events/3rd Birthday Celebration",
+  "permalink": "/docs/Events/3rd Birthday Celebration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Events/3rd Birthday Celebration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "🎂 3rd Birthday Celebration",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛠️ Base Building Bonanza",
+    "permalink": "/docs/Events/Base Building Bonanza"
+  },
+  "next": {
+    "title": "Client Mod Policy",
+    "permalink": "/docs/Wiki/Mod Policy"
+  }
+}

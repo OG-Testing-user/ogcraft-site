@@ -1,0 +1,15 @@
+{
+  "id": "info/voting",
+  "title": "voting",
+  "description": "---",
+  "source": "@site/docs/info/voting.md",
+  "sourceDirName": "info",
+  "slug": "/info/voting",
+  "permalink": "/docs/info/voting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/info/voting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,51 @@
+/* full‐bleed hero with subtle dark overlay */
+.heroBanner {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: 6rem 0 4rem;
+}
+.heroBanner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 0;
+}
+
+/* flex column that centers everything */
+.heroContent {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 800px;    /* optional: cap the width of your content */
+  margin: 0 auto;      /* horizontally center that cap */
+  padding: 0 1rem;     /* small side padding on mobile */
+}
+
+/* logo floating with soft drop shadow */
+.mainLogo {
+  width: 60%;
+  max-width: 360px;
+  height: auto;
+  margin-bottom: 1.5rem;
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.6));
+}
+
+/* override Docusaurus default */
+.heroTitle {
+  margin: 0 0 0.5rem;
+}
+.heroSubtitle {
+  margin: 0 0 2rem;
+  opacity: 0.9;
+}
+
+/* simple, centered button row */
+.buttons {
+  display: flex;
+  gap: 0.75rem;
+}

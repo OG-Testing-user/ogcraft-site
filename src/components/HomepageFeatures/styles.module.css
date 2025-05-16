@@ -1,0 +1,37 @@
+/* src/components/HomepageFeatures/styles.module.css */
+
+.features {
+  padding: 4rem 0;
+}
+
+.feature {
+  /* make the link fill the card and center content */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  /* remove default link styles */
+  text-decoration: none;
+  color: inherit;
+
+  /* spacing & hover outline */
+  padding: 1rem;
+  transition: outline 0.2s ease-in-out, transform 0.1s ease;
+}
+.feature:hover {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 4px;
+  transform: translateY(-2px);
+}
+
+.featureSvg {
+  height: 120px;
+  margin-bottom: 1rem;
+  transition: transform 0.2s ease;
+}
+
+/* optional: slight icon lift on hover */
+.feature:hover .featureSvg {
+  transform: translateY(-4px);
+}

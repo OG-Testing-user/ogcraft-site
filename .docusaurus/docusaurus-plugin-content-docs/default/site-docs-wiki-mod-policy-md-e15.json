@@ -1,0 +1,28 @@
+{
+  "id": "Wiki/Mod Policy",
+  "title": "Client Mod Policy",
+  "description": "We want players to enjoy the game their way, as long as it's fair. This mod policy outlines what's allowed and what isn't when it comes to client-side modifications.",
+  "source": "@site/docs/Wiki/Mod Policy.md",
+  "sourceDirName": "Wiki",
+  "slug": "/Wiki/Mod Policy",
+  "permalink": "/docs/Wiki/Mod Policy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Wiki/Mod Policy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Client Mod Policy",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎂 3rd Birthday Celebration",
+    "permalink": "/docs/Events/3rd Birthday Celebration"
+  },
+  "next": {
+    "title": "Duping Policy",
+    "permalink": "/docs/Wiki/Duping Policy"
+  }
+}

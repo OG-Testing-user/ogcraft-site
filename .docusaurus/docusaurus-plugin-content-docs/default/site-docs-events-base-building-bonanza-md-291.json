@@ -1,0 +1,28 @@
+{
+  "id": "Events/Base Building Bonanza",
+  "title": "🛠️ Base Building Bonanza",
+  "description": "With the first month done and Fly and other goodies unlocked, it's time we got you to show off your bases!",
+  "source": "@site/docs/Events/Base Building Bonanza.md",
+  "sourceDirName": "Events",
+  "slug": "/Events/Base Building Bonanza",
+  "permalink": "/docs/Events/Base Building Bonanza",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Events/Base Building Bonanza.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "🛠️ Base Building Bonanza"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚀 May the 4th Cosplay Contest",
+    "permalink": "/docs/Events/May Cosplay Contest"
+  },
+  "next": {
+    "title": "🎂 3rd Birthday Celebration",
+    "permalink": "/docs/Events/3rd Birthday Celebration"
+  }
+}

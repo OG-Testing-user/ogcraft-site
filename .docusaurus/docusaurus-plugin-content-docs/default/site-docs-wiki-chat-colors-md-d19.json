@@ -1,0 +1,24 @@
+{
+  "id": "Wiki/Chat Colors",
+  "title": "Chat Formatting & Colors",
+  "description": "Customize your in-game chat messages, nicknames, and signs with Minecraft’s built-in color & formatting codes. Use the ampersand (&) followed by the code character to apply.",
+  "source": "@site/docs/Wiki/Chat Colors.md",
+  "sourceDirName": "Wiki",
+  "slug": "/Wiki/Chat Colors",
+  "permalink": "/docs/Wiki/Chat Colors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Wiki/Chat Colors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Duping Policy",
+    "permalink": "/docs/Wiki/Duping Policy"
+  },
+  "next": {
+    "title": "Commands",
+    "permalink": "/docs/Wiki/Commands"
+  }
+}
