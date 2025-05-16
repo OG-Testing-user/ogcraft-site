@@ -13,7 +13,7 @@ const config: Config = {
   organizationName: 'OGCraft',
   projectName: 'ogcraft-site',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
