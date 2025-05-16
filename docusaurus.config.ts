@@ -41,8 +41,8 @@ const config: Config = {
   themeConfig: {
     colorMode: {
       defaultMode: 'dark',
-        disableSwitch: false,
-        respectPrefersColorScheme: false,
+        disableSwitch: true,
+        respectPrefersColorScheme: true,
     },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
@@ -82,6 +82,7 @@ const config: Config = {
           position: 'right',
         },
       ],
+
     },
     footer: {
       style: 'dark',

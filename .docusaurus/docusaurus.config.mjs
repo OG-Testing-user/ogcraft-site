@@ -39,8 +39,8 @@ export default {
   "themeConfig": {
     "colorMode": {
       "defaultMode": "dark",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
+      "disableSwitch": true,
+      "respectPrefersColorScheme": true
     },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
