@@ -11,7 +11,7 @@ export default {
   "baseUrl": "/",
   "organizationName": "OGCraft",
   "projectName": "ogcraft-site",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -37,6 +37,11 @@ export default {
     ]
   ],
   "themeConfig": {
+    "colorMode": {
+      "defaultMode": "dark",
+      "disableSwitch": false,
+      "respectPrefersColorScheme": false
+    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "OGCraft",
@@ -70,7 +75,7 @@ export default {
           "className": "navbarDiscord"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/Roman-Emperor-42/ogcraft-site",
           "label": "GitHub",
           "position": "right"
         }
@@ -303,11 +308,6 @@ export default {
           }
         }
       ]
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
     },
     "docs": {
       "versionPersistence": "localStorage",

@@ -39,6 +39,11 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'OGCraft',
@@ -72,7 +77,7 @@ const config: Config = {
           className: 'navbarDiscord',// an optional hook for CSS
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Roman-Emperor-42/ogcraft-site',
           label: 'GitHub',
           position: 'right',
         },

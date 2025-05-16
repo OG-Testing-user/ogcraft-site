@@ -45,14 +45,14 @@
   "/discord-707": {
     "__comp": "__comp---site-src-pages-discord-tsxe-53-7e9",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---discorda-74-898"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---discord-5-e-9-1f0"
   },
   "/markdown-page-3d7": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---discorda-74-898"
     },
     "content": "content---markdown-page-393-028"
   },
@@ -160,8 +160,8 @@
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---discorda-74-898"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---discord-5-e-9-1f0"
   }
 }
