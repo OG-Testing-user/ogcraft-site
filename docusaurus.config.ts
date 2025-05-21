@@ -92,7 +92,7 @@ const config: Config = {
           items: [
             {
               label: 'Discord',
-              href: '/Info/Discord',
+              href: '/Discord',
             },
             {
               label: 'Status',

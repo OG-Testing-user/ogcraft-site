@@ -17,7 +17,7 @@
 | `/kit [kitname]`                             | Claim an available kit.                                                                                              |
 | `/ar time`                                   | Shows your playtime (Sometimes it errors and running the command again will work)                                    |
 | `/ar top [daily / weekly / monthly / total]` | Shows the playtime leaderboard                                                                                       |
-| `/buyclaimblocks [amount of blocks]`         | Purchase claim blocks                                                                                                |
+| `/buyclaimblocks [amount of blocks]`         | Purchase claim blocks for $1 per claim block                                                                                                |
 | `/abandonclaim`                              | Deletes your land claim                                                                                              |
 | `/pvp`                                       | Toggle PVP on or off                                                                                                 |
 | `/pv [vault number]`                         | Open your Player Vault(s), available at higher ranks                                                                 |
@@ -44,6 +44,7 @@
 | `/pwarp`              | Bring up pwarp GUI.                                            |
 | `/pwarp [name]`       | Teleport to a specific player-created warp.                    |
 | `/tpa [player]`       | Request a teleport to another player.                          |
+| `/tpahere [player]`   | Request that another player teleports to you.                  |
 | `/tpaccept`           | Accept an incoming teleport request.                           |
 | `/tpdeny`             | Deny an incoming teleport request.                             |
 | `/rtp`                | Teleport to a random safe location.                            |
@@ -74,6 +75,7 @@
 | `/discord`                       | Display the invite link to our Discord server.                |
 | `/mail send [player] [message]`  | Send a player mail, even when offline.                        |
 | `/mail read`                     | Read your mail.                                               |
+| `/mail clear`                    | Empty your mailbox.                                               |
 | `/nick`                          | Rename what you show up in chat as, see the [colors page](/docs/Wiki/Chat%20Colors.md). |
 
 ---

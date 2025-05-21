@@ -19,7 +19,7 @@ This page is under construction as we revise permissions
 | **Coloured /nick**           | —        | —    | —     | —     | ✓        | ✓    | ✓       | ✓       | ✓         | ✓         |
 | **Coloured Chat**            | —        | —    | —     | —     | ✓        | ✓    | ✓       | ✓       | ✓         | ✓         |
 | **Enderchest**               | —        | —    | —     | —     | —        | —    | ✓       | ✓       | ✓         | ✓         |
-| **/fly**                     | —        | —    | —     | —     | —        | —    | ✓       | ✓       | ✓         | ✓         |
+| **/fly**                     | —        | —    | —     | —     | —        | —    | —       | ✓       | ✓         | ✓         |
 | **Playervaults**             | —        | —    | —     | —     | —        | —    | —       | —       | 1         | 1         |
 | **Kit**                      | —        | —    | —     | —     | —        | —    | —       | —       | Netherite | OGCrafter |
 | **Discord Role**             | —        | —    | —     | —     | —        | —    | ✓       | ✓       | ✓         | ✓         |

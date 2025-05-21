@@ -1,22 +1,64 @@
+---
 
-:::warning
-**Under Construction:** We’re updating PWarp rules—below are the current guidelines.
+---
+:::note
+> **Effective Date:** DATE  
+> These rules will be implemented on **DATE**. Pwarps not following the rules below will be removed.
+> **Please note:** Pwarps removed during this period will **not** result in a warning.
 :::
+---
 
+### Sub-Categories  
+There will be three new sub-categories on the `/pwarp` menu:  
+- **Shops**  
+- **Grinders**  
+- **Towns**  
 
-## Current Rules
+---
 
-- **Claimed Locations**  
-  PWarps must be claimed before anyone can use them.
+## Generic Pwarp Rules
 
-- **Safety Requirements**  
-  - No hostile mob spawns in the warp area.  
-  - Grinder PWarps must have mobs safely contained.
+1. **Safety First**  
+   - No hostile mobs allowed.  
+   - Must be 100% claimed.  
+   - Players cannot die on warp unless clear warning signs are posted (e.g. witches throwing potions).
 
-- **Allowed PWarp Types**  
-  - Shop  
-  - Grinder  
-  - Town
+2. **Creation Fee**  
+   - Each Pwarp costs **$1,000** to create.
 
-- **Visitor Safety**  
-  All PWarp builds **MUST** be safe and easily navigable for guests.
+3. **Category Required**  
+   - You must assign one of the three categories when setting a Pwarp; uncategorized Pwarps will be removed.
+
+---
+
+## Shop Pwarp Rules
+
+- **Minimum Shops:** At least **10** distinct shops per Pwarp.  
+- **Stock Rule:** If more than **50%** of your shops are out of stock, a 7-day removal timer begins.
+
+---
+
+## Grinder Pwarp Rules
+
+1. **Safe Warp Location**  
+   - Warp must deposit players in a safe zone; they must then move into the grinder area (no immediate deaths).
+
+2. **Spawner Requirement**  
+   - Provide access to a total of **10** spawners (can span multiple grinder setups) so the public can grind mobs at 10 spawners’ worth.
+
+---
+
+## Town Pwarp Rules
+
+- **Town Hall / Welcome Area**  
+  - Must display the town rules prominently.
+
+- **Claim Structure**  
+  - The “mayor” claims the entire town in one big claim.  
+  - Sub-claims are used for individual residents’ builds.
+
+- **Residents List**  
+  - All residents must be listed in the welcome area.
+
+- **Minimum Population**  
+  - At least **3** residents plus the **mayor**.

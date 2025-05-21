@@ -4,7 +4,17 @@ title: ❓ FAQs
 ---
 # FAQ's
 
-## 🏅 How do the ranks work?
+- [🏅 How do the ranks work?](#ranks)  
+- [💰 How do I make money on the server?](#money)  
+- [🛠 What is McMMO?](#mcmmo)  
+- [🧭 How do player warps (PW) work?](#pwarps)  
+- [🚫 Dupe exploits?](#dupe-exploits)  
+- [🏠 How do claims work?](#claims)  
+- [🗺️ How long do maps last?](#map-duration)  
+
+
+
+## 🏅 How do the ranks work? {#ranks}
 
 There are two types of ranks on the server:
 
@@ -22,7 +32,7 @@ These ranks are earned simply by playing on the server! As your (non-AFK) playti
 
 ---
 
-## 💰 How do I make money on the server?
+## 💰 How do I make money on the server? {#money}
 
 There are several ways to earn money:
 
@@ -35,7 +45,32 @@ There are several ways to earn money:
 
 ---
 
-## 🧭 How do player warps (PW) work?
+
+## 🛠 What is McMMO? {#mcmmo}
+
+McMMO is a Minecraft plugin that adds RPG-style by adding **skill leveling**, **unique abilities**, and **perks**. Whenever you perform actions like chopping wood, mining stone, fishing, or fighting mobs, you earn XP in the corresponding skill (e.g., Woodcutting, Mining, Fishing, Combat). As you level up, you unlock powerful abilities such as:
+
+- **Double-Drops** in Mining  
+- **Tree-Feller** in Woodcutting  
+- **Super Breaker** in Mining  
+- **Serrated Strikes** in Combat  
+
+### Key Features
+
+- **15+ Skills** across Combat, Gathering, Farming, and more  
+- **Skill-Based Abilities** keep gameplay fresh and rewarding  
+- **Customizable XP Rates** & level caps for balanced progression  
+- **Party System**: share XP and buffs with friends  
+- **Leaderboards & Achievements** to showcase top players  
+
+Here is a link to the [official McMMO Wiki](https://wiki.mcmmo.org/)
+
+> **Pro tip:** Use `/mcstats` to view your current skill levels and `/mctop` to see the community leaderboard in-game.
+
+
+---
+
+## 🧭 How do player warps (PW) work? {#pwarps}
 
 Player Warps let you create public teleport locations others can access with `/pw`.
 
@@ -44,7 +79,7 @@ Player Warps let you create public teleport locations others can access with `/p
 - Must be **claimed**
 - Must be **safe** for players
 
-### ➕ How to create a player warp:
+### ➕ How to create a player warp: 
 - Use `/pw set [name]` at your current location
 
 ### 🚀 How to use player warps:
@@ -56,7 +91,7 @@ Player Warps let you create public teleport locations others can access with `/p
 
 ---
 
-## 🚫 Questions about dupe exploits?
+## 🚫 Questions about dupe exploits? {#dupe-exploits}
 
 Please visit our [Dupe Exploit Policy page](/docs/Wiki/Duping%20Policy) for full details.
 
@@ -64,7 +99,7 @@ Please visit our [Dupe Exploit Policy page](/docs/Wiki/Duping%20Policy) for full
 
 ---
 
-## 🏠 How do claims work?
+## 🏠 How do claims work? {#claims}
 
 To protect your builds, you can claim land using a **golden shovel**  
 ➡️ Get one with `/kit claim`
@@ -94,7 +129,7 @@ To protect your builds, you can claim land using a **golden shovel**
 
 ---
 
-## 🗺️ How long do maps last?
+## 🗺️ How long do maps last? {#map-duration}
 
 There’s no fixed schedule for map resets, but maps generally last **9 to 12 months**.  
 If a map is especially active or popular, it may last longer.  

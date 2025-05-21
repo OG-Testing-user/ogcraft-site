@@ -5,11 +5,10 @@ sidebar_position: 2
 # Voting
 
 ## 📖 Table of Contents
-1. [Rewards](#rewards)  
+   - [Rewards](#rewards)  
    - [Guaranteed Reward](#guaranteed-reward)  
    - [Chance to Win](#chance-to-win)  
-   - [Small Chance to Win](#small-chance-to-win)  
-2. [Voting Sites](#voting-sites)  
+   - [Voting Sites](#voting-sites)  
 
 ---
 

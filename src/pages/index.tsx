@@ -25,7 +25,7 @@ export default function Home() {
     <Link className="button button--secondary button--lg" to="/docs/Welcome">
     Join Our Server!
     </Link>
-    <Link className="button button--primary button--lg" to="/Info/Discord">
+    <Link className="button button--primary button--lg" to="/Discord">
     Join Our Discord!
     </Link>
     </div>
