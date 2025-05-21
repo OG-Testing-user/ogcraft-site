@@ -4,7 +4,11 @@
   background-size: cover;
   background-position: center;
   padding: 6rem 0 4rem;
+  overflow-x: hidden;
+  width: 100vw;
+  box-sizing: border-box;
 }
+
 .heroBanner::before {
   content: "";
   position: absolute;
@@ -21,9 +25,11 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  max-width: 800px;    /* optional: cap the width of your content */
-  margin: 0 auto;      /* horizontally center that cap */
-  padding: 0 1rem;     /* small side padding on mobile */
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 /* logo floating with soft drop shadow */
