@@ -49,7 +49,7 @@ These mods are prohibited because they provide a clear gameplay advantage:
 - **X-Ray Mods or Texture Packs**
   - Anything that lets you see ores, caves, or players through walls.
 - **Auto-Clickers & Macros**
-  - Including script-based automation or autoclicking software.
+  - Using auto clickers or macros that bypass the /afk timer is not allowed. 
 - **Entity Radar / Tracers**
   - Mods that show mobs or players outside normal render or line of sight.
 - **Flight or Speed Hacks**
