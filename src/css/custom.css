@@ -45,3 +45,5 @@ img {
 /* 3) (Optional) hide any stubborn horizontal overflow */
 html, body {
   overflow-x: hidden;
+} /* ← don’t forget this closing brace */
+

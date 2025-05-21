@@ -1,24 +1,16 @@
 import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-const config: Config = {
+const config = {
   title: 'OGCraft',
   tagline: '',
   favicon: 'img/OGCraft.svg',
 
-  url: 'https://Wiki.ogcraft.org',
+  url: 'https://wiki.ogcraft.org',
   baseUrl: '/',
 
   organizationName: 'OGCraft',
   projectName: 'ogcraft-site',
-
-  metadata: [
-    {
-      name: 'viewport',
-      content: 'width=device-width, initial-scale=1.0, shrink-to-fit=no',
-    },
-  ],
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -33,25 +25,34 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: require.resolve('./sidebars.ts'),
           editUrl:
           'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
       } satisfies Preset.Options,
     ],
   ],
 
   themeConfig: {
+    metadata: [
+      {
+        name: 'viewport',
+        content: 'width=device-width, initial-scale=1.0, shrink-to-fit=no',
+      },
+    ],
+
     colorMode: {
       defaultMode: 'dark',
         disableSwitch: true,
         respectPrefersColorScheme: true,
     },
+
     image: 'img/docusaurus-social-card.jpg',
+
     navbar: {
       title: 'OGCraft',
       logo: {
@@ -68,20 +69,20 @@ const config: Config = {
         {
           href: 'https://store.ogcraft.org',
           label: 'Store',
-          position: 'left',          // same side as “Wiki”
-          className: 'navbarDiscord',// an optional hook for CSS
+          position: 'left',
+          className: 'navbarDiscord',
         },
         {
           href: '/Discord',
           label: 'Discord',
-          position: 'left',          // same side as “Wiki”
-          className: 'navbarDiscord',// an optional hook for CSS
+          position: 'left',
+          className: 'navbarDiscord',
         },
         {
           href: '/docs/Info/Voting',
           label: 'Voting',
-          position: 'left',          // same side as “Wiki”
-          className: 'navbarDiscord',// an optional hook for CSS
+          position: 'left',
+          className: 'navbarDiscord',
         },
         {
           href: 'https://github.com/Roman-Emperor-42/ogcraft-site',
@@ -89,8 +90,8 @@ const config: Config = {
           position: 'right',
         },
       ],
-
     },
+
     footer: {
       style: 'dark',
       links: [
@@ -112,10 +113,10 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} OGCraft, All rights reserved.<br/>
-      Not affiliated with Mojang or Microsoft.
-      `,
+      copyright:
+      `Copyright © ${new Date().getFullYear()} OGCraft, All rights reserved.\nNot affiliated with Mojang or Microsoft.`,
     },
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
