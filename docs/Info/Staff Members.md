@@ -23,6 +23,9 @@ title: 👥 Staff Members
 - **Jimidabob05** 
 - **Rankork**
 - **chuckiefunk** 
+- **Darkeyke**
+- **Karma_3e**
+
 
 ---
 
