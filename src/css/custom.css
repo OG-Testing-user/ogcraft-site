@@ -28,3 +28,20 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* 1) Make all Infima containers fluid on <=768px screens */
+@media (max-width: 768px) {
+  :root {
+    --ifm-container-max-width: 100% !important;
+  }
+}
+
+/* 2) Ensure any <img> can’t overflow its parent */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* 3) (Optional) hide any stubborn horizontal overflow */
+html, body {
+  overflow-x: hidden;
