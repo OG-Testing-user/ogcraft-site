@@ -47,7 +47,7 @@ There will be three new sub-categories on the `/pwarp` menu:
 
 2. **Spawner Requirement**  
    - You must provide access to a minimum of **10** spawners (can span multiple grinder setups) so the public can grind mobs at 10 spawners’ worth.
-   - If your farm does not utalize spawners it must provide comprable rates to the spawner minimum.
+   - If your farm does not utilize spawners it must provide comparable rates to the spawner minimum.
 
 ---
 
