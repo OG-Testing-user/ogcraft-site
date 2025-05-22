@@ -56,6 +56,13 @@
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | `/shop`                                                         | Open the shop GUI to buy and sell items.                                                                            |
 | `/chestshops`                                                   | Brings up GUI for chest shops, allows for searching of chest shops                                                 |
+| `/pw create`                                                    | Brings up GUI for creating a Pwarp.                                                                                        |
+| `/pw category (PwName) (Category)`                              | Adds Pwarp to appropriate category.                                                                                        |
+| `/pw remove (PwName)`                                                    | Delete a Pwarp (must do twice to confirm).                                                                                        |
+| `/pw reset (PwName)`                                                         | Re-Set the location of a Pwarp.                                                                                        |
+| `/pw rename (PwOldName) (PwNewName)`                                                         | Rename a Pwarp.                                                                              |
+| `/pw desc set (PwName) "Description"`                                                         | Set the description of the Pwarp.                                                                                        |
+| `/pw icon set (PwName)`                                                         | Set the Pwarps Icon.                                                                                        |
 | `/sell [hand/all]`                                              | Sell either all items in your hand or inventory. (All will sell every in your inventory it can, even the ones your not holding) |
 | `/bal`                                                          | View your current in-game balance.                                                                                   |
 | `/baltop`                                                       | Shows the wealth leaderboard                                                                                         |
