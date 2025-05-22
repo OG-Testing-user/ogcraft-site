@@ -46,7 +46,8 @@ There will be three new sub-categories on the `/pwarp` menu:
    - Warp must deposit players in a safe zone; they must then move into the grinder area (no immediate deaths).
 
 2. **Spawner Requirement**  
-   - Provide access to a total of **10** spawners (can span multiple grinder setups) so the public can grind mobs at 10 spawners’ worth.
+   - You must provide access to a minimum of **10** spawners (can span multiple grinder setups) so the public can grind mobs at 10 spawners’ worth.
+   - If your farm does not utalize spawners it must provide comprable rates to the spawner minimum.
 
 ---
 
