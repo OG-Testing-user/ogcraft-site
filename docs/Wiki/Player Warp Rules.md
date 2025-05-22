@@ -2,8 +2,8 @@
 
 ---
 :::note
-> **Effective Date:** DATE  
-> These rules will be implemented on **DATE**. Pwarps not following the rules below will be removed.
+> **Effective Date:** June 5th 2025  
+> These rules will be go into effect on **June 5th 2025**. Pwarps not following the rules below will be removed.  
 > **Please note:** Pwarps removed during this period will **not** result in a warning.
 :::
 ---
@@ -28,6 +28,8 @@ There will be three new sub-categories on the `/pwarp` menu:
 
 3. **Category Required**  
    - You must assign one of the three categories when setting a Pwarp; uncategorized Pwarps will be removed.
+   - Set a category using `/pw category set (Shop Name) (Shops/Farms/Towns)`
+   - Example: `/pw category set ExampleShop Shops`
 
 ---
 
