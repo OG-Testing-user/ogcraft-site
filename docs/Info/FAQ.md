@@ -18,17 +18,18 @@ title: ❓ FAQs
 
 There are two types of ranks on the server:
 
-### 💸 Paid Ranks
-These are monthly subscription ranks that come with extra perks like kits, cosmetic commands, and more.  
-All proceeds from paid ranks go directly toward covering server operating costs — all of our staff members are volunteers.
-
-👉 View and purchase ranks through our [store](https://store.ogcraft.org)
-
 ### ⏱️ Playtime Ranks
 These ranks are earned simply by playing on the server! As your (non-AFK) playtime increases, you’ll automatically unlock new ranks with kits, permissions, and useful commands.
 
 - Check your playtime with: `/ar time`  
 - See your progress toward the next rank with: `/ar check`
+
+### 💸 Paid Ranks
+These are monthly subscription ranks that come with extra perks like kits, cosmetic commands, and more.  
+All proceeds from paid ranks go directly toward covering server operating costs, all of our staff members are volunteers.
+
+👉 View and purchase ranks through our [store](https://store.ogcraft.org)
+
 
 ---
 
@@ -36,11 +37,11 @@ These ranks are earned simply by playing on the server! As your (non-AFK) playti
 
 There are several ways to earn money:
 
-- **Sell items in the shop** — Use `/shop`, then right-click the item you want to sell.
-- **Auction items** — Use `/auction start [amount] [price] [increment] [autobuy] [timer]` to auction items to players.
-- **Direct trades** — Trade items manually and use `/pay [username] [amount]` to receive payment.
-- **Earn money from voting** —  $100 per [vote](/docs/Info/Voting)
-- **Other ways** — Participate in chat games or open crates
+- **Sell items in the shop** - Use `/shop`, then right-click the item you want to sell.
+- **Auction items** - Use `/auction start [how many] [price]` to auction the item(s) you are holding to players.
+- **Direct trades** - Trade items manually and use `/pay [username] [amount]` to receive payment.
+- **Earn money from voting** -  $100 per [vote](/docs/Info/Voting)
+- **Other ways** - Participate in chat games or open crates
 
 
 ---
@@ -65,7 +66,7 @@ McMMO is a Minecraft plugin that adds RPG-style by adding **skill leveling**, **
 
 Here is a link to the [official McMMO Wiki](https://wiki.mcmmo.org/)
 
-> **Pro tip:** Use `/mcstats` to view your current skill levels and `/mctop` to see the community leaderboard in-game.
+> **Tip:** Use `/mcstats` to view your current skill levels and `/mctop` to see the community leaderboard in-game.
 
 
 ---
@@ -74,13 +75,22 @@ Here is a link to the [official McMMO Wiki](https://wiki.mcmmo.org/)
 
 Player Warps let you create public teleport locations others can access with `/pw`.
 
+See all commands [here](/docs/Wiki/Commands#teleportation--movement)
+
 ### 📜 PW Rules
 - Must be a **shop**, **town**, or **XP grinder**
 - Must be **claimed**
 - Must be **safe** for players
 
 ### ➕ How to create a player warp: 
-- Use `/pw set [name]` at your current location
+- Use `/pw create` to open the GUI for creating a pwarp.
+
+    - Set the name
+    - Set a description
+    - Set a category
+        - Shops
+        - Farms
+        - Towns
 
 ### 🚀 How to use player warps:
 - Use `/pw` to open the warp menu
@@ -89,20 +99,26 @@ Player Warps let you create public teleport locations others can access with `/p
 ### ⚙️ Managing warps:
 - Use `/pw delete [name]` to remove a warp
 
+
+
 ---
 
 ## 🚫 Questions about dupe exploits? {#dupe-exploits}
 
 Please visit our [Dupe Exploit Policy page](/docs/Wiki/Duping%20Policy) for full details.
 
-**Reminder:** Duping is strictly prohibited and will result in permanent punishment.
+:::note
+> **Reminder:** Duping is strictly prohibited and will result in punishment. Ignorance is not a valid excuse.
+:::
 
 ---
 
 ## 🏠 How do claims work? {#claims}
 
 To protect your builds, you can claim land using a **golden shovel**  
-➡️ Get one with `/kit claim`
+➡️ You can get one with `/kit claim`
+
+Here is a [simple video](https://youtu.be/REwWh0WqSDk?si=OmML8uEUxUNiESJl&t=600) on how claims work.
 
 ### 🔲 How to create a claim:
 1. Use the golden shovel to right-click two opposite corners (minimum size: 10x10 or 100 blocks total)

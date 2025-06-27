@@ -27,7 +27,7 @@ These types of client-side mods are allowed because they improve the experience 
 
 - **Performance Mods**
   - Sodium, Lithium, OptiFine, etc.
-- **Visual Mods**
+- **Visual Mods**t
   - Shaders, BetterF3, Dynamic Surroundings, or HUD customizers.
 - **Minimaps (with restrictions)**
   - Journeymap, Xaero’s Minimap (as long as cave mode and entity radar are turned **off**).
@@ -36,13 +36,13 @@ These types of client-side mods are allowed because they improve the experience 
 - **Cosmetic Mods**
   - Capes, Armor/Hat swaps, or any purely visual feature.
 - **Schematica or Litematica**
-  - Only allowed for building guides — **printer mode is not allowed**.
+  -  **printer mode or any mode that places blocks for you is not allowed**.
 
 ---
 
 ## ❌ Disallowed Mods
 
-These mods are prohibited because they provide a clear gameplay advantage:
+Heres some examples of mods are prohibited because they provide a clear gameplay advantage:
 
 - **Hacked Clients or Cheats**
   - Anything like Wurst, Aristois, or similar.
