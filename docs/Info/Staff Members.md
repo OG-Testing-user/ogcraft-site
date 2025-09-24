@@ -12,20 +12,28 @@ title: 👥 Staff Members
 ## Admins
 - **anneizzle**
 - **NixStyx**
-- **spikeblade**
-- **DoritoWithAGun**
-- **ShadowVoid** 
 - **SwankopotamusRex**
 
 ## Moderators
-- **_TheFlash** 
 - **ElliottPlays** 
 - **Jimidabob05** 
-- **Rankork**
 - **chuckiefunk** 
 - **Darkeyke**
 - **Karma_3e**
+- **Kumiko**
 
+## Architects
+- **NixStyx**
+- **ChunkyPumpkin**
+- **silver_seven**
+
+## Engineers
+- **RedstoneSam**
+- **DoritoWithAGun**
+
+## Developers
+- **\_roman_emperor_**
+- **Spikeblade**
 
 ---
 
@@ -44,7 +52,10 @@ General Staff applications are open.
 - **Madaam_Ragnarok** — Former Admin  
 - **Taco_Cat898** — Former Admin  
 - **DerrylHopkins** — Former Admin  
+- **ShadowVoid** — Former Admin  
 - **oPqnda** — Former Moderator  
+- **_TheFlash** — Former Moderator  
+- **Rankork** — Former Moderator  
 - **carolinecraft01** — Former Moderator  
 
 ---
