@@ -75,6 +75,10 @@ sidebar_position: 0
 16. **Use Common Sense**  
     If it feels like it might break a rule, don’t do it. When in doubt, ask a staff member before acting. Ignorance does not exempt you from the rules.
 
+17. **No Dating/Relationships**  
+    Since we have younger players (some as young as 9) who aren’t yet aware of online safety risks, we’re making it a rule that these kinds of conversations or interactions aren’t allowed. This helps keep the server safe and fun for everyone.
+
+
 ---
 
 ## <img src="/img/discord-ico.png" alt="OGCraft Logo" width="100" style={{ verticalAlign: 'middle' }} /> Discord Server Rules
