@@ -65,7 +65,7 @@ sidebar_position: 0
 
 
 14. **No Advertising Other Servers**  
-    You may mention major, well-known servers (e.g. Hypixel) in context, but promoting small or private servers (or sharing IPs) is forbidden, even in direct messages.
+    You may mention major, well-known servers (e.g. Mineplex, Hypixel) in context, but promoting small or private servers (or sharing IPs) is forbidden, even in direct messages.
 
 
 15. **Shop & Town Warp Rules**  
